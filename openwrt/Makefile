@@ -11,10 +11,10 @@ PKG_NAME:=asterisk-chan-quectel
 PKG_VERSION:=3.6
 PKG_RELEASE:=3.6
 
-# PKG_SOURCE:=master.zip
-# PKG_SOURCE_URL:=https://github.com/IchthysMaranatha/asterisk-chan-quectel/archive/refs/heads/
-# PKG_CAT:=unzip
-# PKG_HASH:=skip
+PKG_SOURCE:=master.zip
+PKG_SOURCE_URL:=https://github.com/neroxps/asterisk-chan-quectel/archive/refs/heads/
+PKG_CAT:=unzip
+PKG_HASH:=skip
 
 PKG_FIXUP:=autoreconf
 
