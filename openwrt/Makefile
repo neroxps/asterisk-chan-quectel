@@ -11,8 +11,8 @@ PKG_NAME:=asterisk-chan-quectel
 PKG_VERSION:=3.6
 PKG_RELEASE:=3.6
 
-PKG_SOURCE:=master.zip
-PKG_SOURCE_URL:=https://github.com/neroxps/asterisk-chan-quectel/archive/refs/heads/
+PKG_SOURCE:=asterisk-chan-quectel-3.6.zip
+PKG_SOURCE_URL:=https://github.com/neroxps/asterisk-chan-quectel/archive/refs/tags/$(PKG_VERSION).zip
 PKG_CAT:=unzip
 PKG_HASH:=skip
 
